@@ -29,7 +29,7 @@ I am currently studying **Computer Science** at the [Free University of Bolzano]
 
 <hr>
 
-<h2> Some of the technologies I use </h2>
+<h3> Some of the technologies I use </h3>
 
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=Python)
@@ -46,7 +46,7 @@ I am currently studying **Computer Science** at the [Free University of Bolzano]
 
 <hr>
 
-<h2> GitHub Stats </h2>
+<h3> GitHub Stats </h3>
 
 <a href="https://github.com/ibrahimgediktr">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samdalvai&layout=compact&theme=dark&show_icons=true&hide=PLpgSQL" width="450">
