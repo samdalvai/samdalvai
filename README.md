@@ -14,7 +14,10 @@ Here are some ideas to get you started:
 
 <!--hr-->
 
-## About me
+<h1>
+Hello Everyone
+<img src="https://raw.githubusercontent.com/blackcater/blackcater/master/images/Hi.gif" width="50">
+</h1>
 
 I am currently studying **Computer Science** at the [Free University of Bolzano](https://www.unibz.it/en/faculties/computer-science/bachelor-computer-science/), I like to learn new things and "it just works" is never enough for me.
 
@@ -26,7 +29,7 @@ I am currently studying **Computer Science** at the [Free University of Bolzano]
 
 <hr>
 
-## Some of the technologies I use
+<h2> Some of the technologies I use </h2>
 
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=Python)
@@ -35,7 +38,6 @@ I am currently studying **Computer Science** at the [Free University of Bolzano]
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=CSS3&logoColor=1572B6)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=Bootstrap&logoColor=563D7C)
-![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=PHP)
 ![Cypress](https://img.shields.io/badge/-Cypress-000000?style=flat&logo=Cypress)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=PostgreSQL)
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=Docker)
@@ -44,7 +46,7 @@ I am currently studying **Computer Science** at the [Free University of Bolzano]
 
 <hr>
 
-## GitHub Stats
+<h2> GitHub Stats </h2>
 
 <a href="https://github.com/ibrahimgediktr">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samdalvai&layout=compact&theme=dark&show_icons=true&hide=PLpgSQL" width="450">
