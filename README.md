@@ -23,9 +23,8 @@ I am currently studying **Computer Science** at the [Free University of Bolzano]
 
 <p>Ask me about anything</p>
 
-
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-dalvai-28480b229/)
 [![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:altaysimsek16@gmail.com)](mailto:samuel.dalvai@gmail.com)
-
 
 <hr>
 
