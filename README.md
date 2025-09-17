@@ -21,8 +21,6 @@ Hello Everyone
 
 I graduated with a Bachelor's degree in **Computer Science** at the [Free University of Bolzano](https://www.unibz.it/en/faculties/computer-science/bachelor-computer-science/), I enjoy learning new technologies and am passionate about both front-end and back-end development.
 
-> <cite>Knowing that something "just works" is never enough for me.</cite>
-
 <p>Ask me about anything</p>
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samueldalvai/)
